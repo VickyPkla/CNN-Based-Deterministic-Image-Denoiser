@@ -1,4 +1,4 @@
-# CNN Based Deterministic Image Denoiser
+# Deep Deterministic Denoising Network
 
 [![PyPI version](https://img.shields.io/pypi/v/your-package-name.svg)](https://pypi.org/project/your-package-name) <!-- optional placeholder -->
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-repo/your-project/actions) <!-- placeholder -->
@@ -21,7 +21,7 @@
 
 ## What the Project Does
 
-This repository contains the code for a **CNN-based deterministic image denoiser**.
+This repository contains the code for a **Deep Deterministic Denoising Network**.
 A conditional U‑Net architecture processes noisy grayscale images through a diffusion-like
 forward and reverse process to recover clean signals. The model is trained on paired clean/noisy
 datasets and can be used for both training new models and evaluating/denoising image sets.
